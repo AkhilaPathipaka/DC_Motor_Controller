@@ -2,7 +2,7 @@
 
 cpp check  | code inspector  | github inspector
 ---------  | -------         |  -----
-![cppcheck-action] [[![cppcheck-action](https://github.com/AkhilaPathipaka/M2_DC_Motor_Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AkhilaPathipaka/M2_DC_Motor_Controller/actions/workflows/cppcheck.yml)|![](https://api.codiga.io/project/30305/status/svg)  | ![](https://github.com/vai312/M2-Embedded_DC_Motor_Controller/actions/workflows/git_inspector.yml/badge.svg)
+[![cppcheck-action](https://github.com/AkhilaPathipaka/M2_DC_Motor_Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AkhilaPathipaka/M2_DC_Motor_Controller/actions/workflows/cppcheck.yml)|![](https://api.codiga.io/project/30305/status/svg)  | ![](https://github.com/vai312/M2-Embedded_DC_Motor_Controller/actions/workflows/git_inspector.yml/badge.svg)
 
 
 This project demonstrates how to vary the speed and change the direction of DC motor using AVR microcontroller ATmega328.
