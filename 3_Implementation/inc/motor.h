@@ -1,9 +1,9 @@
 /**
  * @file motor.h
- * @author vaibhav gaurkar
+ * @author akhila pathipaka
  * @brief 
  * @version 0.1
- * @date 2021-12-02
+ * @date 2022-04-23
  * 
  * @copyright Copyright (c) 2021
  * 
