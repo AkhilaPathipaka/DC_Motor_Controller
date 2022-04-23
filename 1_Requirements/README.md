@@ -10,36 +10,7 @@ The main objective of this project is:
 3. To save the energy of the battery.
 4. To increase the life of the battery.
 
-## SWOT ANALYSIS
-### Strength
-1. It can change the speed of the motor as per the need of the application.
-2. It can change the direction of rotation of the motor as per the need of the application.
-### Weakness
-1. It is only for a small rating of dc motor.
-2. Sudden stoppage of the motor is not possible.
-3. There is no feature to increase speed above the rating
 
-### Opportunities
-1. A wide range of speed controllers can be made for high rating of a motor.
-2. Multiple motors can be controlled.
-### Threats
-1. A wide range of speed controller for the high rating of a motor is already available in the market.
-## Who:
-1. The person who has basic knowledge of speed controlling.
-2. The person who wants to change the speed of appliances on which he working.
-## What:
-1. To get controllable speed.
-2. To change direction and speed of moving robot. 
-## When:
-1. When there is a need for a change in speed.
-2. When there is a need to control speed and direction of motor as per requirement.
-## Where:
-1. For domestic purposes.
-2. For Industrial purposes.
-3. For defense purposes.
-
-## How:
-1. Using ATmega328 as a controller to control the speed and direction dc motor.
 ## Detail requirements
 ### High Level Requirements:
  ID | Description | Status 
